@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>sky is blue</title>
+    <title>PRAISE THE HOES</title>
 </head>
 <body>
     <h1>WHO KNOWS YOUR LIMIT 1</h1>

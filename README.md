@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Internet Technology Fundamentals</title>
+    <title>Who knows your limit</title>
 </head>
 <body>
-    <h1>welcome to Labaratory 1</h1>
+    <h1>skyisblue 1</h1>
     <p> NO SUCH THINGS LIFE IS BETTER THAN YOURS. </p>
 </body>
 </html>

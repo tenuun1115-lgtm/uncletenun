@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PRAISE THE JESUS</title>
+    <title>4 YOUR EYEZ ONLY</title>
 </head>
 <body>
-    <h1>WHO KNOWS YOUR LIMIT 1</h1>
+    <h1>APRIL 29TH 1</h1>
     <p> NO SUCH THINGS LIFE IS BETTER THAN YOURS. </p>
 </body>
 </html>

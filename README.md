@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PRAISE THE HOES</title>
+    <title>PRAISE THE JESUS</title>
 </head>
 <body>
     <h1>WHO KNOWS YOUR LIMIT 1</h1>
